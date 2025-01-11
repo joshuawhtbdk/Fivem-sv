@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "iconv-lite": "^0.6.3"
+  },
+  "name": "fd-reboot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
